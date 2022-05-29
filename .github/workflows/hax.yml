@@ -16,4 +16,4 @@ jobs:
           SECRET_PASSWORD: ${{ secrets.PASSWORD }}
         run: |
           curl -sSL -O https://github.com/SeanSuny/Hax_extend/raw/main/HaxAutoReNew.exe
-          HaxAutoReNew.exe -user "%SECRET_USERNAME%" -password "%SECRET_PASSWORD%"
+          HaxAutoReNew.exe -user "5206156334" -password "bb234200"
